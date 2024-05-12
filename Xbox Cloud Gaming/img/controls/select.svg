@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 107 56" width="107" height="56">
+	<title>select-svg</title>
+	<style>
+		.s0 { opacity: .1;fill: #ffffff } 
+		.s1 { fill: none;stroke: #ffffff } 
+		.s2 { fill: #000000;stroke: #ffffff;stroke-linejoin: round;stroke-width: 3 } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m0 28c0-15.5 12.5-28 28-28h51c15.5 0 28 12.5 28 28 0 15.5-12.5 28-28 28h-51c-15.5 0-28-12.5-28-28z"/>
+	</g>
+	<path id="Layer" class="s1" d="m0.5 28c0-15.2 12.3-27.5 27.5-27.5h51c15.2 0 27.5 12.3 27.5 27.5 0 15.2-12.3 27.5-27.5 27.5h-51c-15.2 0-27.5-12.3-27.5-27.5z"/>
+	<path id="Rounded Rectangle 2 copy" class="s2" d="m34.8 13.7h26.7c0.7 0 1.3 0.5 1.3 1.2v18.3c0 0.7-0.6 1.3-1.3 1.3h-26.7c-0.7 0-1.3-0.6-1.3-1.3v-18.3c0-0.7 0.6-1.2 1.3-1.2zm11.5 7.5h26.7c0.7 0 1.3 0.6 1.3 1.2v18.4c0 0.7-0.6 1.2-1.3 1.2h-26.7c-0.7 0-1.2-0.5-1.2-1.2v-18.4c0-0.6 0.5-1.2 1.2-1.2z"/>
+</svg>

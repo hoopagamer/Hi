@@ -1,0 +1,81 @@
+<html>
+
+<head>
+    <style>
+        body {
+            width: 200px;
+            text-align: center;
+            margin: 0;
+        }
+
+        input {
+            width: 80%;
+            text-align: center;
+        }
+
+        .logo-container {
+            margin-bottom: 4px;
+            color: #ffffff;
+            background-color: #29a30a;
+            padding: 10px;
+        }
+
+        .option {
+            margin-bottom: 4px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="logo-container">
+        <span>XCloud Anti Touch & AFK</span>
+    </div>
+    <div id="settings">
+        <div class="option">
+            <label for="stick-radius">Analog Size</label>
+            <input type="number" id="stick-radius">
+        </div>
+        <div class="option">
+            <label for="button-diameter">Button Size</label>
+            <input type="number" id="button-diameter">
+        </div>
+        <div class="option">
+            <label for="button-border-left-offset">Left Offset</label>
+            <input type="number" id="button-border-left-offset">
+        </div>
+        <div class="option">
+            <label for="button-border-right-offset">Right Offset</label>
+            <input type="number" id="button-border-right-offset">
+        </div>
+        <div class="option">
+            <label for="button-border-top-offset">Up Offset</label>
+            <input type="number" id="button-border-top-offset">
+        </div>
+        <div class="option">
+            <label for="button-border-bottom-offset">Down Offset</label>
+            <input type="number" id="button-border-bottom-offset">
+        </div>
+        <div class="option">
+            <label for="opacity">Opacity (0-255)</label>
+            <input type="number" id="opacity" min="0" max="255">
+        </div>
+        <div class="option">
+            <label for="enable-colors">Enable Colors</label>
+            <input type="checkbox" id="enable-colors">
+        </div>
+        <div class="option">
+            <label for="enable-draw-sticks">Show Analog (causes lag)</label>
+            <input type="checkbox" id="enable-draw-sticks">
+        </div>
+        <div class="option">
+            <label for="disable-touchcontroller">Disable Touch Control</label>
+            <input type="checkbox" id="disable-touchcontroller">
+        </div>
+        <div class="option">
+            <button type="button" id="apply-button">Apply</button>
+        </div>
+    </div>
+    <script src="settings.js"></script>
+</body>
+
+</html>

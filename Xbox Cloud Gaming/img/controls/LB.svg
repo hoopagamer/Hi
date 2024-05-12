@@ -1,0 +1,17 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 207 72" width="207" height="72">
+	<title>LB-svg</title>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { opacity: .1;fill: #ffffff } 
+		.s1 { fill: none;stroke: #ffffff } 
+		.t2 { font-size: 77px;fill: #ffffff;font-weight: 800;font-family: "EncodeSansSemiCondensed-ExtraBold", "Encode Sans SemiCondensed ExBd" } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m0 16c0-8.3 6.7-15 15-15h177c8.3 0 15 6.7 15 15v41c0 8.3-6.7 15-15 15h-177c-8.3 0-15-6.7-15-15z"/>
+	</g>
+	<path id="Layer" class="s1" d="m0.5 16c0-8 6.5-14.5 14.5-14.5h177c8 0 14.5 6.5 14.5 14.5v41c0 8-6.5 14.5-14.5 14.5h-177c-8 0-14.5-6.5-14.5-14.5z"/>
+	<text id="LB" style="transform: matrix(1,0,0,1,56,65)" >
+		<tspan x="0" y="0" class="t2">L</tspan><tspan  y="0" class="t2">B
+</tspan>
+	</text>
+</svg>

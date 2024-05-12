@@ -1,0 +1,23 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 102 102" width="102" height="102">
+	<title>X-svg</title>
+	<defs>
+		<radialGradient id="g1" cx="51" cy="51" r="51" gradientUnits="userSpaceOnUse">
+			<stop offset=".9" stop-color="#ffffff" stop-opacity="0"/>
+			<stop offset="1" stop-color="#ffffff" stop-opacity=".5"/>
+		</radialGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { opacity: .1;fill: #ffffff } 
+		.s1 { fill: url(#g1) } 
+		.s2 { fill: none;stroke: #ffffff } 
+		.t3 { font-size: 77px;fill: #1c9fef;font-weight: 800;font-family: "EncodeSansSemiCondensed-ExtraBold", "Encode Sans SemiCondensed ExBd" } 
+	</style>
+	<path id="Layer" class="s0" d="m51 101.5c-27.9 0-50.5-22.6-50.5-50.5 0-27.9 22.6-50.5 50.5-50.5 27.9 0 50.5 22.6 50.5 50.5 0 27.9-22.6 50.5-50.5 50.5z"/>
+	<path id="Layer" class="s1" d="m51 101.5c-27.9 0-50.5-22.6-50.5-50.5 0-27.9 22.6-50.5 50.5-50.5 27.9 0 50.5 22.6 50.5 50.5 0 27.9-22.6 50.5-50.5 50.5z"/>
+	<path id="Layer" class="s2" d="m51 101.5c-27.9 0-50.5-22.6-50.5-50.5 0-27.9 22.6-50.5 50.5-50.5 27.9 0 50.5 22.6 50.5 50.5 0 27.9-22.6 50.5-50.5 50.5z"/>
+	<text id="X" style="transform: matrix(1,0,0,1,26,80)" >
+		<tspan x="0" y="0" class="t3">X
+</tspan>
+	</text>
+</svg>

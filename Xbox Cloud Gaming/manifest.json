@@ -1,0 +1,41 @@
+{
+    "name": "Penny STW xCloud",
+    "version": "2.1",
+    "manifest_version": 3,
+    "description": "AFK Xbox Cloud Gaming!",
+    "icons": {
+        "512": "img/penny.png"
+      },
+    "permissions": [
+        "storage",
+        "declarativeContent"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "https://www.xbox.com/*"
+            ],
+            "js": [
+                "js/content.js"
+            ],
+            "run_at": "document_start"
+        }
+    ],
+    "web_accessible_resources": [
+        {
+            "resources": [
+                "js/script.js",
+                "img/controls/*.svg"
+            ],
+            "matches": [
+                "https://www.xbox.com/*"
+            ]
+        }
+    ],
+    "background": {
+        "service_worker": "js/background.js"
+    },
+    "action": {
+        "default_popup": "settings.html"
+    }
+}
