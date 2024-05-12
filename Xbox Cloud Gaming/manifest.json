@@ -6,8 +6,7 @@
     "icons": {
         "512": "img/penny.png"
       },
-      "key": 
-    "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmXNvVMgvVgRP2l22s2WD7lOzqGyvRP2JLMNqJMwRm8+9LJbvsyh0oCiftX2t3tDeFG6esx51Rftw6ybtdW3fFZPvFae8tNpVosOX+/9LAFkSwm4EtDxtX/v1UBVwlJ/PVu9f4AaeUOsexYwf2gtjN/GMziQaZQEHqIMwBxcDJD3rKhH1Awn0KmyBJ9+eC03pU6c1hraysJrF7S6380I1FBlC3vsJxsE3y2cBBZzL0oHKyJMKqFf5j1Ns0EaB1A0Y4WGPfZu8pZ3froXhw65/cuso6+zTEecqZLhJx7S5I4X1ALWH/XuME+l3+XrbVFAKzurzSdOrJDOoLr4LIpm/fwIDAQAB",
+      "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmXNvVMgvVgRP2l22s2WD7lOzqGyvRP2JLMNqJMwRm8+9LJbvsyh0oCiftX2t3tDeFG6esx51Rftw6ybtdW3fFZPvFae8tNpVosOX+/9LAFkSwm4EtDxtX/v1UBVwlJ/PVu9f4AaeUOsexYwf2gtjN/GMziQaZQEHqIMwBxcDJD3rKhH1Awn0KmyBJ9+eC03pU6c1hraysJrF7S6380I1FBlC3vsJxsE3y2cBBZzL0oHKyJMKqFf5j1Ns0EaB1A0Y4WGPfZu8pZ3froXhw65/cuso6+zTEecqZLhJx7S5I4X1ALWH/XuME+l3+XrbVFAKzurzSdOrJDOoLr4LIpm/fwIDAQAB",
     "permissions": [
         "storage",
         "declarativeContent"
